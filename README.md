@@ -1,5 +1,4 @@
 # Learning Python - Based on the book "Learn Programming. Use Your Head!"
-Python Logo
 
 This repository contains my solutions and examples related to learning the Python programming language. They are based on the book "Learn Programming. Use Your Head!".
 
