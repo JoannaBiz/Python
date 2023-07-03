@@ -2,13 +2,6 @@
 
 This repository contains my solutions and examples related to learning the Python programming language. They are based on the book "Learn Programming. Use Your Head!".
 
-# Table of Contents
-# About the Project
-# Installation
-# How to Use This Repository
-# Folders
-# Contributors
-
 # About the Project
 The aim of this project is to familiarize oneself with the fundamentals of programming in Python. The repository includes code examples and practical exercises.
 
